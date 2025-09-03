@@ -1,0 +1,53 @@
+first_name,last_name,dob,email,phone,city,state,zip_code,status
+Christian,Clements,6/4/1962,rlong@example.com,(251)592-1575,East Amanda,Arkansas,60057,new
+Amy,Murphy,2/26/1970,valerie51@example.com,-1189,East Ashley,Louisiana,58652,new
+James,Richardson,7/31/1991,johnfigueroa@example.net,001-425-622-4017,Lake Alexis,South Dakota,15471,new
+Eric,Alvarado,5/14/1957,lindseyhopkins@example.com,529.505.6552,Port Kristaland,Kentucky,58743,returning
+Anthony,Simmons,2/27/1954,tony45@example.org,903.552.5940,Port Dawnfort,Idaho,3661,new
+Joseph,Bray,4/8/1952,scottpatrick@example.org,(458)996-7790x027,East Logan,Ohio,40857,returning
+Joel,Hudson,7/3/2000,tylermartin@example.net,(252)665-6287,Wilcoxtown,North Dakota,7298,returning
+Claudia,Moore,1/30/1980,brenda42@example.net,367.663.9198x37793,Neilshire,New Jersey,99339,returning
+Charles,Howard,3/20/1952,jacobgomez@example.net,8874501543,East Antonio,Michigan,23071,new
+Thomas,Young,8/7/2007,cabreratimothy@example.org,439-843-6023x836,Michaelborough,Nevada,25782,new
+Rebecca,MD,4/16/1996,zwilliams@example.net,204.865.2633x654,Colonmouth,Virginia,45975,new
+Brett,Harris,9/9/1947,rthomas@example.org,(816)551-9723x9543,West Alejandrastad,Alaska,93254,new
+Kara,Gordon,4/28/1953,rmiller@example.com,(418)278-8000,South Tonyview,Arizona,84909,returning
+David,Wade,7/7/1971,michelle43@example.net,778-563-2145x9059,Port Nicholasview,Minnesota,80428,returning
+David,Hill,4/9/1991,mcintoshcody@example.com,-4631,Krystalburgh,Minnesota,17246,new
+Laura,Carrillo,6/14/1974,vfrank@example.net,+1-792-293-4531x1421,West Jamiehaven,Alaska,66890,new
+William,White,9/27/1999,hobrad@example.net,-3201,Hayesville,Alabama,28334,new
+Derek,Nielsen,8/23/1993,carterbryan@example.org,874.227.0722x35711,Port Rogershire,Virginia,18705,new
+Stacy,Simmons,11/2/1951,walkerlindsey@example.org,-4541,Wolfburgh,South Dakota,51215,new
+Patricia,Anderson,2/10/1965,hsimmons@example.net,359.251.5655x6749,Randychester,Washington,93122,new
+Jason,Schmidt,3/27/1950,charles52@example.org,529-985-6138x508,Kellystad,Nevada,58280,new
+Michelle,Smith,5/2/1970,juangallagher@example.com,711.714.4510x6620,Keithstad,New Mexico,8774,new
+Robert,Farrell,3/10/1982,lewisjessica@example.com,471.671.9893,North Douglasfurt,Michigan,50338,new
+Jeffrey,Parker,3/6/1971,morrissara@example.org,+1-567-416-4440x848,South Matthewport,Virginia,51964,returning
+John,Williams,5/27/1949,davistimothy@example.com,233-898-9145,Thomasland,North Carolina,35961,returning
+Sharon,Anderson,4/10/1970,brendapatel@example.org,001-750-572-0075,East Williammouth,Montana,51427,returning
+Fred,Lambert,6/3/2002,amy43@example.net,(911)426-4708x16431,Wilsontown,California,96763,returning
+Ronald,Rodriguez,8/18/1999,allentodd@example.org,(331)395-6228x4437,Port Wendystad,New Mexico,88335,returning
+Gregory,Ramirez,6/9/1992,jacksonjanet@example.com,-9409,Lake Mercedeshaven,Missouri,35850,new
+Chase,Wilson,9/21/1975,andrewwong@example.com,606.419.0583x4881,South Fredburgh,Delaware,72346,returning
+Christopher,Morris,3/13/1981,howardbeverly@example.net,721-589-2888x42490,Port Ryanton,Nevada,90646,new
+Bryan,Davis,2/9/1978,catherine99@example.net,605-388-9303,West Amber,Ohio,95092,returning
+Mr.,Roman,12/6/1976,wilsonrichard@example.net,(673)419-2661x69740,South Emilystad,Georgia,50381,new
+Melissa,Pearson,8/14/1996,kristinaburgess@example.net,+1-542-742-6155x76377,West Molly,Connecticut,10188,new
+Jerry,Peterson,10/6/1992,shannonkennedy@example.com,9122522514,Kathrynchester,Ohio,61614,new
+Christopher,Burke,8/15/1946,ramirezroger@example.net,7358499252,Russellport,Wisconsin,89016,new
+Rebecca,Wilson,4/9/1972,lewisjames@example.net,001-941-512-2270x83224,Maryfort,Massachusetts,98748,returning
+Christine,Harris,3/10/1947,carlosperry@example.com,222-257-9339x63041,South Nicole,Rhode Island,78985,new
+Brooke,Stevens,8/1/1994,philipsmith@example.org,(493)448-4514x70626,New Samanthaton,New Mexico,26870,new
+Jessica,Holt,2/1/1961,gilldavid@example.com,323-313-1024,South Timothyton,Kansas,5039,returning
+Matthew,Park,10/1/1994,fhays@example.org,(459)271-4708x2641,West Robin,Wisconsin,63503,new
+Amber,Jenkins,2/1/1997,michael55@example.com,(606)347-3635x444,Cruzfurt,Colorado,45455,returning
+Joel,Williams,11/25/1988,nsnyder@example.net,656-742-8302,North Rebecca,Oregon,88689,returning
+Haley,Barrett,4/6/1984,jennifer85@example.net,(623)563-5762x90673,Barbertown,Vermont,49279,returning
+Lauren,Todd,5/23/1951,dianesanders@example.org,+1-668-379-1900x01049,Robbinsville,Minnesota,10172,new
+David,Logan,6/11/1985,hardyryan@example.com,317-828-6461x2654,North Leslie,Maine,20256,returning
+Ryan,Evans,7/17/1978,allisonphilip@example.net,733-238-6339,New John,Virginia,23278,new
+Daniel,Simpson,6/13/1972,pauljames@example.net,554-368-3545x09551,East John,Hawaii,10728,new
+Ryan,Burch,5/19/1980,jonathanwilson@example.org,642.753.7434,Beardborough,Massachusetts,50067,new
+Cheryl,Diaz,6/1/1945,courtney21@example.net,842-703-5891,East Rhonda,New York,79686,returning
+Rimjhim,Singh,9/29/2003,rimjhimsingh2909@gmail.com,8955668856,East Rhonda,New York,79686,returning
+Rimjhim,Singh,2003-09-29,rimjhimsingh2909@gmail.com,91+8955668856,East Rhonda,New York,79686,returning
