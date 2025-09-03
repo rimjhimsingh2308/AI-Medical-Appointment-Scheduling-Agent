@@ -1,0 +1,7 @@
+streamlit
+langchain
+langgraph
+openai
+pandas
+openpyxl
+python-dotenv
